@@ -1,6 +1,6 @@
 ## The Alpha Kindergarten  
 
-A collection of practice projects, less than impressive mschool work and fun/non-professional personal assignments. 
+A collection of practice projects, less than impressive school work and fun/non-professional personal work. 
 
 Working my way through this little grpahic I found!
 

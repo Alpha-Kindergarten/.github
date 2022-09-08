@@ -1,6 +1,6 @@
 ## The Alpha Kindergarten  
 
-A collection of practice projects, less than impressive school work and fun/non-professional personal work. 
+A collection of practice projects, less than impressive school work and fun/non-professional amateur personal work. 
 
 Working my way through this little grpahic I found! [link](https://raw.githubusercontent.com/Agrendalath/Programming-Challenges-v1.4/master/challenges.jpg)
 
